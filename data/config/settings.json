@@ -1,0 +1,6 @@
+{
+    "plugins":
+    {
+        "CombatEnduranceDisplayScript":"Shoey.CombatEnduranceDisplay.DisplayScript"
+    },	
+}
