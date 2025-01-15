@@ -4,7 +4,7 @@
 	"author":"Shoey",
     "utility":"true",
     "version": { "major":"1", "minor": "0", "patch": "0" },
-	"description":"",
+	"description":"Adds a small display showing how much more repairing can be done in the current battle with Elite Combat Endurance.",
     "gameVersion": "0.97a-RC11",
   	"jars":["jars/SASCombatEnduranceDisplay.jar"],
   	"modPlugin":"Shoey.CombatEnduranceDisplay.MainPlugin"
